@@ -8,7 +8,7 @@ Aliasing is supported for all devices.
 
 # How to Install  
 - Install [BepInEx 5.4](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.22)
-- Dowload the [latest release](releases/latest)
+- Dowload the [latest release](../../releases/latest)
 - Drop the dll into `<Game Folder>/BepInEx/plugins`
 
 # Multiplayer compatible?  
