@@ -58,5 +58,9 @@ namespace ExtraLogical
         {
             __result = __result || index == 104;
         }
+
+        // TODO Override System.Double Assets.Scripts.Objects.DynamicThing::GetLogicValue(Assets.Scripts.Objects.Motherboards.LogicType)
+
+        // TODO Override System.Boolean Assets.Scripts.Objects.DynamicThing::CanLogicRead(Assets.Scripts.Objects.Motherboards.LogicType)
     }
 }
